@@ -1,0 +1,38 @@
+YEAR,MONTH,ORIGIN_STATE_NM,DEST_STATE_NM,TOTAL_FLIGHTS
+2013,1,Alabama       ,Colorado      ,79
+2013,1,Alabama       ,Florida       ,281
+2013,1,Alabama       ,Georgia       ,1325
+2013,1,Alabama       ,Illinois      ,303
+2013,1,Alabama       ,Louisiana     ,116
+2013,1,Alabama       ,Maryland      ,118
+2013,1,Alabama       ,Michigan      ,227
+2013,1,Alabama       ,Missouri      ,62
+2013,1,Alabama       ,Nevada        ,62
+2013,1,Alabama       ,North Carolina,144
+2013,1,Alabama       ,Texas         ,742
+2013,1,Alaska        ,Alaska        ,594
+2013,1,Alaska        ,Arizona       ,74
+2013,1,Alaska        ,Colorado      ,62
+2013,1,Alaska        ,Hawaii        ,79
+2013,1,Alaska        ,Illinois      ,17
+2013,1,Alaska        ,Minnesota     ,95
+2014,1,Alabama   ,California,3
+2014,1,Alabama   ,Colorado  ,90
+2014,1,Alabama   ,Florida   ,251
+2014,1,Alabama   ,Georgia   ,1267
+2014,1,Alabama   ,Illinois  ,310
+2014,1,Alabama   ,Maryland  ,125
+2014,1,Alabama   ,Michigan  ,2
+2014,1,Alabama   ,Missouri  ,12
+2014,1,Alabama   ,Nevada    ,62
+2014,1,Alabama   ,Texas     ,725
+2014,1,Alaska    ,Alaska    ,607
+2014,1,Alaska    ,Arizona   ,101
+2014,1,Alaska    ,California,16
+2014,1,Alaska    ,Colorado  ,62
+2014,1,Alaska    ,Hawaii    ,79
+2014,1,Alaska    ,Illinois  ,47
+2014,1,Alaska    ,Minnesota ,69
+2014,1,Alaska    ,Nevada    ,28
+2014,1,Alaska    ,Oregon    ,172
+2014,1,Alaska    ,Washington,1000

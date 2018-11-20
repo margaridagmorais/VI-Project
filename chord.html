@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      #tooltip {
+        color: white;
+        opacity: .9;
+        background: #333;
+        padding: 5px;
+        border: 1px solid lightgrey;
+        border-radius: 5px;
+        position: absolute;
+        z-index: 10;
+        visibility: hidden;
+        pointer-events: none;
+      }
+      #circle circle {
+        fill: none;
+        pointer-events: all;
+      }
+      .group path {
+        fill-opacity: .7;
+      }
+      .chord {
+        fill-opacity: .7;
+        stroke-width: .25px;
+      }
+      #circle:hover path.fade {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    Wait for it... (8 or so seconds)
+    <div id="tooltip"></div>
+    <script src="lib/d3.js"></script>
+    <script src="https://unpkg.com/datalib@1.8.0/datalib.min.js"></script>
+    <script src="http://documentcloud.github.com/underscore/underscore-min.js"></script>
+    <script src="https://raw.github.com/douglascrockford/JSON-js/master/json2.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/alasql@0.4"></script>
+    <script src="lib/underscore.js"></script>
+    <script src="lib/moment.js"></script>
+    <script src="lib/underscore.aggregate.min.js"></script>
+    <script src="lib/linq/linq.js"></script>
+    <script src="js/mapper.js"></script>
+    <script src="js/chord.js"></script>
+  </body>
+</html>
